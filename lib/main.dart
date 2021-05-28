@@ -17,27 +17,27 @@ class MiTarjetaApp extends StatelessWidget {
           body: Container(
             child: ListView(
               children: <Widget>[
-                _items('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/450_1000.jpg', 'Disco Duro'),
+                _items('https://raw.githubusercontent.com/Stirkpaps/misImagenes/main/450_1000.jpg', 'Disco Duro'),
                 SizedBox(
                   height: 5.0,
                 ),
-                _items('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/91273.jpg', 'Memoria USB'),
+                _items('https://raw.githubusercontent.com/Stirkpaps/misImagenes/main/91273.jpg', 'Memoria USB'),
                 SizedBox(
                   height: 5.0,
                 ),
-                _items('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/61OvV27-44L._AC_SL1500_.jpg', 'Laptop'),
+                _items('https://raw.githubusercontent.com/Stirkpaps/misImagenes/main/61OvV27-44L._AC_SL1500_.jpg', 'Laptop'),
                 SizedBox(
                   height: 5.0,
                 ),
-                _items('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/descarga%20(2).jpg', 'Monitor'),
+                _items('https://raw.githubusercontent.com/Stirkpaps/misImagenes/main/descarga%20(2).jpg', 'Monitor'),
                 SizedBox(
                   height: 5.0,
                 ),
-                _items('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/t7_1.png', 'Camara'),
+                _items('https://raw.githubusercontent.com/Stirkpaps/misImagenes/main/t7_1.png', 'Camara'),
                 SizedBox(
                   height: 5.0,
                 ),
-                _items('https://raw.githubusercontent.com/AlvaroGMZ/misImagenes/main/Bocina-hfaudio-hfbaf15-600x600.jpg', 'Bocina'),
+                _items('https://raw.githubusercontent.com/Stirkpaps/misImagenes/main/Bocina-hfaudio-hfbaf15-600x600.jpg', 'Bocina'),
                 SizedBox(
                   height: 5.0,
                 ),
